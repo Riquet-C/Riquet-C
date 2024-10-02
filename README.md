@@ -7,7 +7,7 @@ Here you'll find the projects I've worked on with extra care and detail. 💻
 
 # Programming Skills
 
-Here are the main programming languages and frameworks I've learned:
+## Here are the main programming languages and frameworks I've learned:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
