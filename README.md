@@ -32,7 +32,7 @@ Here you'll find the projects I've worked on with extra care and detail. 💻
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
-🌟 Notable repos:
+## 🌟 Notable repos:
 
 - PHP with Laravel 🐘
 - JavaScript with Vue.js & Vuetify 🖥️
