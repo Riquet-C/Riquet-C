@@ -35,15 +35,10 @@ Here you'll find the projects I've worked on with extra care and detail. 💻
 ## 🌟 Notable repos:
 
 - PHP with Laravel 🐘
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://github.com/Riquet-C/projetBoutique_PhpLaravel)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)](https://github.com/Riquet-C/projetBoutique_PhpLaravel)
 
 You can find my PHP with Laravel project [here](https://github.com/Riquet-C/projetBoutique_PhpLaravel).
 
 - JavaScript with Vue.js & Vuetify 🖥️
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://github.com/Riquet-C/vueJs_siteGestion)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)](https://github.com/Riquet-C/vueJs_siteGestion)
-[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge)](https://github.com/Riquet-C/vueJs_siteGestion)
 
 You can find my JavaScript with Vue.js & Vuetify project [here](https://github.com/Riquet-C/vueJs_siteGestion).
   
